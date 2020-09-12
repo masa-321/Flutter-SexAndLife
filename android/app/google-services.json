@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153999027805",
+    "firebase_url": "https://sexualhealthmedia-736f9.firebaseio.com",
+    "project_id": "sexualhealthmedia-736f9",
+    "storage_bucket": "sexualhealthmedia-736f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153999027805:android:9e46314600d13d9e5a67b4",
+        "android_client_info": {
+          "package_name": "com.masa321.sex_and_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153999027805-sp4c551b5kefq1vkre84hc5bpu332042.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWKKmK-zpf_ThJqgwDBUnPXKiN7Ub46R0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153999027805-sp4c551b5kefq1vkre84hc5bpu332042.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153999027805-5vaveuvctnnaott16mu18e62f40p1jjq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.masa321.SexualMediaApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
